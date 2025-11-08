@@ -27,7 +27,7 @@ A simple calculator program written in **C#** that performs basic arithmetic ope
 
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/maheshTechProhash/CalculatorApp.git
+   git clone https://github.com/MaheshTechPro-hash/CalculatorApp.git
 
  2. Open the project in Visual Studio or VS Code
 
@@ -59,5 +59,5 @@ Error: Division by zero is not allowed.
 
 🧑‍💻 Author
 Mahesh Palave
-GitHub: maheshTechProhash
+GitHub: MaheshTechPro-hash
 
